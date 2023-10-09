@@ -1,0 +1,24 @@
+Todolist 
+-FAIT Crée un environnement virtuel, installer django et créer un projet
+- FAIT Pages de base et templates
+    - FAIT Créer app pour pages 
+    - FAIT Créer base pour template
+    - FAIT Créer front page
+    - FAIT Créer la page about
+- Authentification
+    - DONE Create database model for userprofiles
+    - DONE Make it possible to sign up 
+    - DONE Make it possible to log in 
+    - DONE Make it possible to log out
+- DONE Tableau de bord
+- DONE Créer de nouveau leads
+    - DONE New django app
+    - DONE Database models
+    - DONE View /forms for leads
+    - DONE List out leads
+    - DONE View detail page of leads
+- DONE Convertir des leads en clients
+- Modifier et supprimer des clients
+- Implémenter des solutions pour les équipes
+- Implémenter une solution de paiement
+- Deployer
